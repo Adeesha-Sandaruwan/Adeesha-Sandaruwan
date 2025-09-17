@@ -28,43 +28,39 @@
 </p>
 
 ---
-
-## 🛠 Tech Stack (Animated)
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,figma,java,python,kotlin,mysql&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,express&tools=git,figma&includeNames=true&animation=fadeInUp" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,python,html,css,javascript,tailwind,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 🎯 Achievements & Stats
+## 🏆 Achievements
 <p align="center">
-  <!-- Animated Streak -->
-  <img src="https://streak-stats.demolab.com?user=adeesha-sandaruwan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FFB300&ring=36BCF7&currStreakLabel=36BCF7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
 ---
 
-## 📂 Highlighted Projects
+## 🚀 Highlighted Projects
+✨ **[Cinna Ceylon](https://github.com/Adeesha-Sandaruwan/Cinna-Ceylon)** – A full MERN stack project for cinnamon product management.  
+🌐 **[Portfolio Website](https://www.self.so/adeesha-sandaruwan-82ny4d)** – 3D styled, modern portfolio with animations.  
+📱 **[Mobile Inventory App](#)** – Android/Kotlin app for managing stock with Firebase backend.  
+
+---
+
+## 📊 GitHub Analytics
 <p align="center">
-  <a href="https://github.com/adeesha-sandaruwan/Cinna-Ceylon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adeesha-sandaruwan&repo=Cinna-Ceylon&theme=radical&border_color=36BCF7&bg_color=0d1117" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adeesha-sandaruwan&repo=Portfolio&theme=radical&border_color=36BCF7&bg_color=0d1117" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adeesha-Sandaruwan&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adeesha-Sandaruwan&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## ✨ Fun Animation
+## 🔥 Streak Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://streak-stats.demolab.com?user=Adeesha-Sandaruwan&theme=radical&hide_border=true" />
 </p>
-
 ---
 
 <footer align="center">
