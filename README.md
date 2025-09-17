@@ -1,58 +1,84 @@
-<!-- Header Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Adeesha%20Sandaruwan-MERN%20Stack%20Developer-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adeesha%20Sandaruwan-%20MERN%20Stack%20Developer-36BCF7?style=for-the-badge&logo=react&logoColor=white" alt="Adeesha Sandaruwan - MERN" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Adeesha Sandaruwan</h1>
-<h3 align="center">💻 Full-Stack Developer | 🎓 Undergraduate at SLIIT | 🚀 Passionate about Modern Web Apps</h3>
+# Hi 👋, I'm Adeesha Sandaruwan  
+**De Silva Y A S** — Undergraduate at **SLIIT** · Full-Stack (MERN) Developer  
+_Passionate about building modern, responsive web applications and immersive UI/UX._
 
----
-
-### 👨‍💻 About Me
-- 🔭 Currently working on **Cinna Ceylon**
-- 🌱 Always learning **modern frameworks & UI/UX**
-- 💡 Interested in **3D Web Experiences** & **AI-powered apps**
-- 🎯 Goal: Build **professional, scalable, and futuristic applications**
-
----
-
-### 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:ragoon100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.self.so/adeesha-sandaruwan-82ny4d"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/adeesha-sandaruwan-aa903b363"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://web.facebook.com/adeesha.sandaruwan.3826"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=adeesha-sandaruwan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 🚀 Languages & Tools
+## 🔗 Contact
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,java,python,kotlin,git,figma" />
+  <a href="mailto:ragoon100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.self.so/adeesha-sandaruwan-82ny4d" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/adeesha-sandaruwan-aa903b363" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://web.facebook.com/adeesha.sandaruwan.3826" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About me
+- 🎓 Undergraduate at **SLIIT**  
+- 🔭 Currently working on **Cinna Ceylon**  
+- 🌱 Focus: **MERN**, modern UI/UX, and performant, scalable web apps  
+- ⚡ Interests: 3D web interfaces, progressive web apps, and developer tooling
+
+---
+
+## 🛠 Languages & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adeesha-Sandaruwan&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adeesha-Sandaruwan&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,html,css,tailwind,git,github,figma,java,python" alt="skills" />
 </p>
 
 ---
 
-### 🔥 Contribution Streak
+## 📈 Contribution / Activity
+
+### 🔥 Contribution Streak (primary)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adeesha-Sandaruwan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <!-- Primary: demolab -->
+  <img src="https://streak-stats.demolab.com?user=adeesha-sandaruwan&theme=tokyonight&hide_border=true" alt="GitHub Streak (demolab)" />
+
+  <!-- Fallbacks: heroku + badge (displayed if primary fails) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adeesha-sandaruwan&theme=tokyonight&hide_border=true" alt="GitHub Streak (heroku fallback)" />
+  <img src="https://img.shields.io/badge/Contribution-Streak%20🔥-brightgreen?style=for-the-badge" alt="streak fallback badge" />
+</p>
+
+> **Note:** If the demolab image does not render (rare), the Heroku service or the simple shields badge will show instead.
+
+---
+
+### 📊 Recent Activity (calendar-style)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeesha-sandaruwan&theme=react-dark&hide_border=true" alt="Contribution activity graph" width="100%" />
 </p>
 
 ---
 
-### 🏆 Achievements
+## 🔭 Selected / Pinned Projects
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=1" />
+  <a href="https://github.com/adeesha-sandaruwan/Cinna-Ceylon" target="_blank"><img src="https://img.shields.io/badge/Cinna--Ceylon-View%20Repo-1abc9c?style=for-the-badge&logo=github" alt="Cinna Ceylon" /></a>
+  <!-- Replace the repo links above with your real repo URLs if names differ -->
+  <a href="https://github.com/adeesha-sandaruwan/your-repo-2" target="_blank"><img src="https://img.shields.io/badge/Repo-2-2f80ed?style=for-the-badge&logo=github" alt="repo2" /></a>
+  <a href="https://github.com/adeesha-sandaruwan/your-repo-3" target="_blank"><img src="https://img.shields.io/badge/Repo-3-f39c12?style=for-the-badge&logo=github" alt="repo3" /></a>
 </p>
 
 ---
 
-⭐ **Made with professionalism by Adeesha Sandaruwan**
+## 🏆 Highlights
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adeesha-sandaruwan&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
+</p>
+
+---
+
+<footer align="center">
+  <p>
+    Built with ❤️ — Adeesha Sandaruwan · <small>De Silva Y A S</small>
+  </p>
+</footer>
