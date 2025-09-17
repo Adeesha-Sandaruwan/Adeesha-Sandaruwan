@@ -44,8 +44,7 @@
 
 ## 🚀 Highlighted Projects
 ✨ **[Cinna Ceylon](https://github.com/Adeesha-Sandaruwan/Cinna-Ceylon)** – A full MERN stack project for cinnamon product management.  
-🌐 **[Portfolio Website](https://www.self.so/adeesha-sandaruwan-82ny4d)** – 3D styled, modern portfolio with animations.  
-📱 **[Mobile Inventory App](#)** – Android/Kotlin app for managing stock with Firebase backend.  
+📱 **[Mobile App UI](https://github.com/Adeesha-Sandaruwan/Hotel_Booking_App-UI)** – Android/Kotlin app for managing stock with Firebase backend.  
 
 ---
 
