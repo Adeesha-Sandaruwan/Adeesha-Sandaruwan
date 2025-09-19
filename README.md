@@ -1,25 +1,68 @@
-<!-- Professional Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Adeesha+Sandaruwan;Full-Stack+Developer;Undergraduate+at+SLIIT;Focused+on+AI+and+Web+Technologies" alt="Typing SVG" />
-</h1>
+# Adeesha Sandaruwan — Full‑Stack Developer & AI Enthusiast
 
-<!-- Clean Professional Banner -->
 <p align="center">
   <img src="https://i.ibb.co/yYQ0k4C/professional-banner.gif" alt="Professional Banner" width="100%" />
 </p>
 
 ---
 
-## 🚀 About Me
-- ✨ **De Silva Y A S (Adeesha Sandaruwan)**  
-- 🎓 Undergraduate at **SLIIT**  
-- 💻 Building **futuristic, responsive Full-Stack Applications**  
-- 🎨 Focused on **AI, 3D Web Experiences, and Modern UI/UX**  
-- ⚡ Passionate about **advanced learning in cutting-edge technologies**  
+<p align="center">
+  <strong>De Silva Y A S (Adeesha Sandaruwan)</strong> • Undergraduate at SLIIT • Building responsive, production-grade Full‑Stack apps with AI & modern UX
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## ✨ Quick Snapshot
+- 🔭 Currently: Building MERN apps and exploring AI-driven web experiences  
+- 🧭 Focus: Full‑Stack (React, Node.js, MongoDB), 3D/interactive UI, AI integrations  
+- ⚡ Strengths: Clean UI, performance optimization, rapid prototyping
+
+---
+
+## 🧩 What I Build
+- Modern web apps with clear UX and responsive design  
+- AI-enhanced features: recommendation engines, simple NLP helpers, automation tools  
+- Interactive front-ends and 3D web experiments (three.js / WebGL)  
+
+---
+
+## 🚀 Highlighted Projects
+<p align="center">
+  <a href="https://github.com/Adeesha-Sandaruwan/Cinna-Ceylon" title="Cinna Ceylon">
+    <img src="https://i.ibb.co/VJc3M0G/cinna-ceylon.png" alt="Cinna Ceylon" width="260" style="margin:8px"/>
+  </a>
+  <a href="https://github.com/Adeesha-Sandaruwan/Hotel_Booking_App-UI" title="Hotel Booking App UI">
+    <img src="https://i.ibb.co/z4XqQ2N/hotel-ui.png" alt="Hotel App UI" width="260" style="margin:8px"/>
+  </a>
+</p>
+- Cinna Ceylon — Full MERN stack product management & e‑commerce features  
+- Hotel Booking App UI — Clean Kotlin UI for hotel management and booking flows
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,python,java,git,github,vscode,figma&theme=light" alt="tech icons"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adeesha-Sandaruwan&show_icons=true&theme=transparent&hide_border=true&title_color=0E75B6&icon_color=0E75B6" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adeesha-Sandaruwan&layout=compact&theme=transparent&hide_border=true&title_color=0E75B6" height="150"/>
+</p>
+
+---
+
+## 🎯 Learning Focus
+- Integrating ML/AI into full‑stack applications (APIs, model inference, fine‑tuning ideas)  
+- Progressive web apps & performance optimizations  
+- Polished UI/UX with accessible, responsive design
+
+---
+
+## 📬 Connect
 <p align="center">
   <a href="mailto:ragoon100@gmail.com"><img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
   <a href="https://www.self.so/adeesha-sandaruwan-82ny4d"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
@@ -28,53 +71,11 @@
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,python,html,css,javascript,tailwind,git,github,vscode,figma&theme=light" />
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=light&no-frame=true&margin-w=10&margin-h=10&column=6" />
-</p>
-
----
-
-## 🚀 Highlighted Projects
-<p align="center">
-  <a href="https://github.com/Adeesha-Sandaruwan/Cinna-Ceylon">
-    <img src="https://i.ibb.co/VJc3M0G/cinna-ceylon.png" alt="Cinna Ceylon" width="280"/>
-  </a>
-  <a href="https://github.com/Adeesha-Sandaruwan/Hotel_Booking_App-UI">
-    <img src="https://i.ibb.co/z4XqQ2N/hotel-ui.png" alt="Hotel App UI" width="280"/>
-  </a>
-</p>
-<p align="center">
-✨ **Cinna Ceylon** – Full MERN stack project for value-added product management.<br/>
-✨ **Hotel Booking App UI** – Professional Android/Kotlin hotel management interface.
-</p>
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adeesha-Sandaruwan&show_icons=true&theme=transparent&hide_border=true&title_color=0E75B6&icon_color=0E75B6" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adeesha-Sandaruwan&layout=compact&theme=transparent&hide_border=true&title_color=0E75B6" height="160"/>
-</p>
-
----
-
-## 🔹 Key Learning Focus
-- Advanced **Full-Stack Web Development** (React, Node.js, MongoDB, Tailwind CSS)  
-- **AI & Machine Learning** integration in web projects  
-- Modern **UI/UX patterns** including 3D and interactive web experiences  
-- Optimized **performance & responsive design** in production-grade apps  
-- Continuous **learning & building projects** to explore new technologies  
+## 🤝 Hiring / Collaboration
+Open to internships, collaborative projects, and freelance tasks in web development and AI integrations. DM on LinkedIn or email: ragoon100@gmail.com
 
 ---
 
 <footer align="center">
-  <p>🚀 Built professionally by <b>Adeesha Sandaruwan</b> | Focused on Advanced Learning & Full-Stack Development</p>
+  <p>Built with ❤️ by Adeesha Sandaruwan — focus on learning, shipping, and clean UX</p>
 </footer>
