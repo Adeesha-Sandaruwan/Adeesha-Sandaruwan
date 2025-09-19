@@ -1,11 +1,11 @@
-<!-- Futuristic Typing Header -->
+<!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Adeesha+Sandaruwan;Full-Stack+Developer;Undergraduate+at+SLIIT;Passionate+about+Web+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Adeesha+Sandaruwan;Full-Stack+Developer;AI+%26+Web+Enthusiast;Undergraduate+at+SLIIT" alt="Typing SVG" />
 </h1>
 
 <!-- Futuristic Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/zrCdGj6/futuristic-banner.gif" alt="futuristic banner" width="100%" />
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="futuristic banner" width="100%" />
 </p>
 
 ---
@@ -38,18 +38,28 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=light&no-frame=true&margin-w=10&margin-h=10&column=6" />
 </p>
 
 ---
 
-## 🚀 Highlighted Projects
-✨ **[Cinna Ceylon](https://github.com/Adeesha-Sandaruwan/Cinna-Ceylon)** – MERN stack project for cinnamon value-added product management.  
-📱 **[Hotel Booking App UI](https://github.com/Adeesha-Sandaruwan/Hotel_Booking_App-UI)** – Kotlin/Android app UI for managing hotels.  
+## 🚀 Projects
+<p align="center">
+  <a href="https://github.com/Adeesha-Sandaruwan/Cinna-Ceylon">
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Cinna Ceylon" width="300"/>
+  </a>
+  <a href="https://github.com/Adeesha-Sandaruwan/Hotel_Booking_App-UI">
+    <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Hotel App UI" width="300"/>
+  </a>
+</p>
+<p align="center">
+✨ **Cinna Ceylon** – MERN stack product management project.<br/>
+✨ **Hotel Booking App UI** – Kotlin/Android hotel management interface.
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adeesha-Sandaruwan&show_icons=true&theme=transparent&hide_border=true&title_color=0E75B6&icon_color=0E75B6" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adeesha-Sandaruwan&layout=compact&theme=transparent&hide_border=true&title_color=0E75B6" height="160"/>
@@ -57,14 +67,7 @@
 
 ---
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adeesha-Sandaruwan&theme=default&hide_border=true&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
-</p>
-
----
-
-## 🎬 Fun Touch
+## 🎬 Fun Coding GIF
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding gif"/>
 </p>
