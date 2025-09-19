@@ -1,81 +1,76 @@
-# Adeesha Sandaruwan — Full‑Stack Developer & AI Enthusiast
+<div align="center">
 
-<p align="center">
-  <img src="https://i.ibb.co/yYQ0k4C/professional-banner.gif" alt="Professional Banner" width="100%" />
-</p>
+![Header](assets/header.png)
 
----
+# Adeesha Sandaruwan
+### Full-Stack Developer | AI & Web Innovation
 
-<p align="center">
-  <strong>De Silva Y A S (Adeesha Sandaruwan)</strong> • Undergraduate at SLIIT • Building responsive, production-grade Full‑Stack apps with AI & modern UX
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=notion&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:ragoon100@gmail.com)
 
----
+</div>
 
-## ✨ Quick Snapshot
-- 🔭 Currently: Building MERN apps and exploring AI-driven web experiences  
-- 🧭 Focus: Full‑Stack (React, Node.js, MongoDB), 3D/interactive UI, AI integrations  
-- ⚡ Strengths: Clean UI, performance optimization, rapid prototyping
+## 🎯 Mission Statement
+Building next-generation web experiences that seamlessly blend AI capabilities with human-centered design. Undergraduate at SLIIT, focused on creating scalable and innovative solutions.
 
----
+## 💻 Core Technologies
 
-## 🧩 What I Build
-- Modern web apps with clear UX and responsive design  
-- AI-enhanced features: recommendation engines, simple NLP helpers, automation tools  
-- Interactive front-ends and 3D web experiments (three.js / WebGL)  
+```javascript
+const skills = {
+    frontend: ['React', 'Next.js', 'TailwindCSS', 'Three.js'],
+    backend: ['Node.js', 'Express', 'MongoDB', 'PostgreSQL'],
+    ai_ml: ['TensorFlow', 'PyTorch', 'OpenAI API'],
+    tools: ['Docker', 'Git', 'AWS', 'Figma'],
+    currentLearning: '3D Web Experiences & AI Integration'
+};
+```
 
----
+## 🚀 Featured Projects
 
-## 🚀 Highlighted Projects
-<p align="center">
-  <a href="https://github.com/Adeesha-Sandaruwan/Cinna-Ceylon" title="Cinna Ceylon">
-    <img src="https://i.ibb.co/VJc3M0G/cinna-ceylon.png" alt="Cinna Ceylon" width="260" style="margin:8px"/>
-  </a>
-  <a href="https://github.com/Adeesha-Sandaruwan/Hotel_Booking_App-UI" title="Hotel Booking App UI">
-    <img src="https://i.ibb.co/z4XqQ2N/hotel-ui.png" alt="Hotel App UI" width="260" style="margin:8px"/>
-  </a>
-</p>
-- Cinna Ceylon — Full MERN stack product management & e‑commerce features  
-- Hotel Booking App UI — Clean Kotlin UI for hotel management and booking flows
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="project1.png" width="100%" alt="Project 1"/>
+      <br />
+      <strong>Cinna Ceylon</strong>
+      <br />
+      Full-stack e-commerce platform with AI-powered recommendations
+    </td>
+    <td align="center" width="50%">
+      <img src="project2.png" width="100%" alt="Project 2"/>
+      <br />
+      <strong>Hotel Booking System</strong>
+      <br />
+      Modern mobile UI with real-time availability tracking
+    </td>
+  </tr>
+</table>
 
----
+## 📊 GitHub Analytics
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,python,java,git,github,vscode,figma&theme=light" alt="tech icons"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adeesha-Sandaruwan&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeesha-Sandaruwan&theme=dark"/>
+</div>
 
----
+## 🌟 Expertise Areas
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adeesha-Sandaruwan&show_icons=true&theme=transparent&hide_border=true&title_color=0E75B6&icon_color=0E75B6" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adeesha-Sandaruwan&layout=compact&theme=transparent&hide_border=true&title_color=0E75B6" height="150"/>
-</p>
+- 🎨 Responsive UI/UX Design
+- 🤖 AI Integration in Web Apps
+- 🔄 Full-Stack Development
+- 📱 Cross-Platform Solutions
+- ⚡ Performance Optimization
 
----
+## 🎓 Learning Journey
+- Advanced AI/ML Implementation
+- Cloud Architecture
+- Web3 Technologies
+- System Design Patterns
 
-## 🎯 Learning Focus
-- Integrating ML/AI into full‑stack applications (APIs, model inference, fine‑tuning ideas)  
-- Progressive web apps & performance optimizations  
-- Polished UI/UX with accessible, responsive design
+<div align="center">
 
----
+### Let's build something amazing together! 
+[📫 Get in touch](mailto:ragoon100@gmail.com)
 
-## 📬 Connect
-<p align="center">
-  <a href="mailto:ragoon100@gmail.com"><img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-  <a href="https://www.self.so/adeesha-sandaruwan-82ny4d"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
-  <a href="https://www.linkedin.com/in/adeesha-sandaruwan-aa903b363"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-</p>
-
----
-
-## 🤝 Hiring / Collaboration
-Open to internships, collaborative projects, and freelance tasks in web development and AI integrations. DM on LinkedIn or email: ragoon100@gmail.com
-
----
-
-<footer align="center">
-  <p>Built with ❤️ by Adeesha Sandaruwan — focus on learning, shipping, and clean UX</p>
-</footer>
+</div>
