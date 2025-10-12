@@ -43,8 +43,10 @@
 ---
 
 ## 🚀 Highlighted Projects
-✨ **[Cinna Ceylon](https://github.com/Adeesha-Sandaruwan/Cinna-Ceylon)** – A full MERN stack project for cinnamon value added product management.  
-📱 **[Mobile App UI](https://github.com/Adeesha-Sandaruwan/Hotel_Booking_App-UI)** – Android/Kotlin app UI for managing Hotels, backend is under development.  
+✨ **[Cinna Ceylon](https://github.com/Adeesha-Sandaruwan/Cinna-Ceylon)** – A MERN project for cinnamon value added products management for cinnamon market in Sri Lanka.  
+📱 **[Mobile App](https://github.com/Adeesha-Sandaruwan/Habit_Tracker_App)** – Android mobile app for managing day to day habits(Hydration, Step Counter,Task Reminders).  
+📱 **[Mobile App UI](https://github.com/Adeesha-Sandaruwan/Hotel_Booking_App-UI)** – Android/Kotlin app UI for managing Hotels, backend is under development.
+
 
 ---
 
