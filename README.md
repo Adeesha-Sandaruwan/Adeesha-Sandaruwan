@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-✨ De Silva Y A S (Adeesha Sandaruwan)  
+✨ **Adeesha Sandaruwan**  
 🎓 Undergraduate at **SLIIT**  
 💻 Building futuristic, responsive **Full-Stack Apps**  
 🎨 Love **AI + 3D Web Experiences**  
@@ -21,13 +21,14 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:ragoon100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:adeesha75600@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.self.so/adeesha-sandaruwan-82ny4d"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/adeesha-sandaruwan-aa903b363"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://web.facebook.com/adeesha.sandaruwan.3826"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
+
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,python,html,css,javascript,tailwind,git,github,vscode,figma" />
@@ -37,23 +38,27 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=flat&margin-w=10&margin-h=10&no-frame=true" />
+  <br>
+  *If no trophies appear, make sure you have at least one public repository.*
 </p>
 
 ---
 
 ## 🚀 Highlighted Projects
-✨ **[Cinna Ceylon](https://github.com/Adeesha-Sandaruwan/Cinna-Ceylon)** – A MERN project for cinnamon value added products management for cinnamon market in Sri Lanka.  
-📱 **[Mobile App](https://github.com/Adeesha-Sandaruwan/Habit_Tracker_App)** – Android mobile app for managing day to day habits(Hydration, Step Counter,Task Reminders).  
-📱 **[Mobile App UI](https://github.com/Adeesha-Sandaruwan/Hotel_Booking_App-UI)** – Android/Kotlin app UI for managing Hotels, backend is under development.
-
+✨ **[Cinna Ceylon](https://github.com/Adeesha-Sandaruwan/Cinna-Ceylon)** – MERN project for managing cinnamon products in Sri Lanka.  
+📱 **[Habit Tracker App](https://github.com/Adeesha-Sandaruwan/Habit_Tracker_App)** – Android app to track daily habits (Hydration, Step Counter, Task Reminders).  
+📱 **[Hotel Booking App UI](https://github.com/Adeesha-Sandaruwan/Hotel_Booking_App-UI)** – Android/Kotlin UI for managing hotels; backend in development.  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adeesha-Sandaruwan&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adeesha-Sandaruwan&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adeesha-Sandaruwan&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeesha-Sandaruwan&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <br>
+  *Stats only work with public repositories.*
 </p>
 
 ---
