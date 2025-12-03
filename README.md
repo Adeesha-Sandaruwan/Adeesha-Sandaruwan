@@ -41,7 +41,6 @@
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=flat&margin-w=10&margin-h=10&no-frame=true" />
   <br>
-  *If no trophies appear, make sure you have at least one public repository.*
 </p>
 
 ---
