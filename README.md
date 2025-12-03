@@ -54,11 +54,15 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adeesha-Sandaruwan&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeesha-Sandaruwan&layout=compact&theme=dark&hide_border=true" height="160"/>
-  <br>
-  *Stats only work with public repositories.*
+  <!-- Public Repositories -->
+  <img src="https://img.shields.io/github/repo-size/Adeesha-Sandaruwan/GhostCheck?style=for-the-badge&color=blue" alt="Repo Size" />
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/Adeesha-Sandaruwan?style=for-the-badge&color=green" alt="Followers" />
+  <!-- Top Language for a repo (example: GhostCheck) -->
+  <img src="https://img.shields.io/github/languages/top/Adeesha-Sandaruwan/GhostCheck?style=for-the-badge&color=yellow" alt="Top Language" />
 </p>
 
 ---
