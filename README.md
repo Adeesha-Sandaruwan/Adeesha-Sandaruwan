@@ -55,7 +55,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adeesha-Sandaruwan&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Adeesha-Sandaruwan&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
 </div>
 
 <hr />
@@ -64,14 +64,18 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Cinna Ceylon](https://github.com/Adeesha-Sandaruwan/Cinna-Ceylon)** | A comprehensive MERN platform for managing and exploring premium cinnamon products in Sri Lanka. | `MERN` `Redux` `Tailwind` |
-| **[Habit Tracker](https://github.com/Adeesha-Sandaruwan/Habit_Tracker_App)** | Android application to track daily habits including hydration, steps, and task reminders. | `Java` `Android SDK` `SQLite` |
-| **[Hotel UI](https://github.com/Adeesha-Sandaruwan/Hotel_Booking_App-UI)** | A modern, responsive UI written in Kotlin for a Hotel Management System. | `Kotlin` `XML` `Material UI` |
+| **[Cinna Ceylon](https://github.com/Adeesha-Sandaruwan/Cinna-Ceylon)** | A comprehensive MERN platform for managing and exploring premium cinnamon products in Sri Lanka. | `MERN` `Tailwind` |
+| **[Habit Tracker](https://github.com/Adeesha-Sandaruwan/Habit_Tracker_App)** | Android application to track daily habits including hydration, steps, and task reminders. | `Kotlin` `Android SDK` |
+| **[Hotel UI](https://github.com/Adeesha-Sandaruwan/Hotel_Booking_App-UI)** | A modern, responsive UI written in Kotlin for a Hotel Management System. | `Kotlin` `XML` `Material UI(XML)` |
 
 <br />
 
+<h2 align="center">🏆 Achievements</h2>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=onestar&no-frame=true&margin-w=15&margin-h=15&column=7" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=gitdimmed&no-frame=true&margin-w=10&row=1" alt="trophies" />
+  </a>
 </div>
 
 <hr />
