@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%F0%9F%91%8B+I'm+Adeesha+Sandaruwan;Full-Stack+Developer;Undergraduate+at+SLIIT;Passionate+about+Web+%26+AI" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7aa2f7&text=Adeesha%20Sandaruwan&fontSize=55&fontAlign=center&fontSection=header" alt="Adeesha Sandaruwan" />
 </div>
 
 <div align="center">
@@ -73,9 +73,7 @@
 <h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=gitdimmed&no-frame=true&margin-w=10&row=1" alt="trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=gitdimmed&no-frame=true&margin-w=10" alt="trophies" />
 </div>
 
 <hr />
