@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=440&lines=Full-Stack+MERN+Developer;UI%2FUX+Enthusiast;Building+Digital+Experiences;Next.js+%2B+Three.js+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;MERN+%7C+Spring+Boot+%7C+Next.js;AI-Powered+Application+Builder;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Adeesha-Sandaruwan&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/Adeesha-Sandaruwan)
 
@@ -18,7 +18,7 @@
 
 ### 🌐 **Connect With Me**
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://portfoliowebdeployment.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌍_Check_out_my_Portfolio_✅-6366F1?style=for-the-badge&logoColor=white)](https://portfoliowebdeployment.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeesha-sandaruwan-aa903b363)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeesha75600@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adeesha-Sandaruwan)
@@ -38,15 +38,17 @@ const adeesha = {
     location: "Sri Lanka 🇱🇰",
     education: "Undergraduate @ SLIIT",
     role: "Full-Stack Developer",
-    currentFocus: ["MERN Stack", "Next.js", "Three.js"],
-    passion: "AI + 3D Web Experiences",
-    funFact: "I animate UI components for fun ⚡"
+    expertise: ["MERN", "Spring Boot", "Next.js", "AI-Assisted Development"],
+    currentFocus: ["Microservices", "AI-Assisted Development", "Cloud Deployment"],
+    databases: ["MongoDB", "PostgreSQL", "Supabase"],
+    funFact: "I build AI-powered apps that solve real problems ⚡"
 };
 ```
 
-**🔭 Currently Working On:** Full-Stack MERN Applications  
-**🌱 Currently Learning:** Next.js & Three.js Ecosystems  
-**🎨 Passionate About:** Building Beautiful, Functional Web Experiences  
+**🔭 Currently Working On:** Enterprise-level Full-Stack Applications  
+**🌱 Currently Learning:** Microservices Architecture & Advanced Spring Boot  
+**🎨 Passionate About:** Building Scalable, AI-Powered Web Solutions  
+**🤖 AI Integration:** Leveraging AI to enhance user experiences
 
 <br>
 
@@ -68,18 +70,26 @@ const adeesha = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Backend**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### **Languages & Mobile**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### **Tools & Design**
+### **Tools & Deployment**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -94,13 +104,12 @@ const adeesha = {
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adeesha-Sandaruwan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&ring_color=F85D7F" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeesha-Sandaruwan&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Adeesha-Sandaruwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=Adeesha-Sandaruwan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeesha-Sandaruwan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adeesha-Sandaruwan&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeesha-Sandaruwan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
@@ -117,26 +126,26 @@ const adeesha = {
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 [Cinna Ceylon](https://github.com/Adeesha-Sandaruwan/Cinna-Ceylon)
+### 🎓 [SkillSync](https://github.com/Adeesha-Sandaruwan/SkillSync-Skill_Share_-_Learning_Platform)
 
-**A comprehensive MERN platform for managing and exploring premium cinnamon products in Sri Lanka**
+**Skill-sharing and learning platform(AI-Assisted Development)**
 
-![Tech Stack](https://img.shields.io/badge/Stack-MERN-61DAFB?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://skillsyncfrontend.vercel.app/)
+![AI](https://img.shields.io/badge/AI-Assisted-FF6F00?style=flat-square)
 
-`MongoDB` `Express` `React` `Node.js` `Tailwind CSS`
+`Spring Boot` `Java` `PostgreSQL` `Supabase` `React`
 
 </td>
 <td width="50%" valign="top">
 
-### ✅ [Habit Tracker App](https://github.com/Adeesha-Sandaruwan/Habit_Tracker_App)
+### 🌿 [Cinna Project](https://github.com/Adeesha-Sandaruwan/Cinna-Project)
 
-**Android application to track daily habits including hydration, steps, and task reminders**
+**Full-stack MERN platform for premium cinnamon products**
 
-![Tech Stack](https://img.shields.io/badge/Stack-Android-3DDC84?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=netlify)](https://cinnaproducts.netlify.app/)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
-`Kotlin` `Android SDK` `SQLite` `Material Design`
+`MongoDB` `Express` `React` `Node.js` `Tailwind`
 
 </td>
 </tr>
@@ -144,23 +153,52 @@ const adeesha = {
 <tr>
 <td width="50%" valign="top">
 
-### 🏨 [Hotel Booking UI](https://github.com/Adeesha-Sandaruwan/Hotel_Booking_App-UI)
+### 💼 [My Portfolio](https://github.com/Adeesha-Sandaruwan/portfolio_web)
 
-**Modern, responsive UI for a Hotel Management System built with Kotlin**
+**Modern portfolio built with TypeScript and Next.js**
 
-![Tech Stack](https://img.shields.io/badge/Stack-Kotlin-7F52FF?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Complete-blue?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://portfoliowebdeployment.vercel.app/)
+![AI](https://img.shields.io/badge/AI-Assisted-FF6F00?style=flat-square)
 
-`Kotlin` `XML` `Material UI` `Android`
+`TypeScript` `Next.js` `Tailwind CSS` `Vercel`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔗 [View All Projects →](https://github.com/Adeesha-Sandaruwan?tab=repositories)
+### 💰 [Lend P2P](https://github.com/Adeesha-Sandaruwan/microfinance_mern_stack_application)
 
-**Explore my complete collection of projects and contributions**
+**Microfinance P2P lending application(AI-Assisted Development)**
 
-![Projects](https://img.shields.io/badge/Public_Repos-20+-6366F1?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=railway)](https://terrific-integrity-production.up.railway.app/)
+![AI](https://img.shields.io/badge/AI-Assisted-FF6F00?style=flat-square)
+
+`MERN Stack` `MongoDB` `Express` `React` `Node.js`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📦 [Inventory Management System](https://github.com/Adeesha-Sandaruwan/Fully_Complete_Inventory_Mgmt_System)
+
+**Complete enterprise inventory management solution**
+
+![Status](https://img.shields.io/badge/Status-Complete-blue?style=flat-square)
+![Enterprise](https://img.shields.io/badge/Enterprise-Ready-blueviolet?style=flat-square)
+
+`Spring Boot` `Java` `PostgreSQL` `Supabase`
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ [Habit Tracker App](https://github.com/Adeesha-Sandaruwan/Habit_Tracker_App)
+
+**Android app for tracking daily habits and routines**
+
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+
+`Kotlin` `Android SDK` `SQLite` `Material Design`
 
 </td>
 </tr>
@@ -174,14 +212,24 @@ const adeesha = {
 
 <br>
 
-## 💼 **Portfolio Highlights**
+<div align="center">
+
+## 📈 **Contribution Activity**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adeesha-Sandaruwan&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+<br>
 
 <div align="center">
 
-🎨 **Modern Web Design** • 🚀 **Performance Optimized** • ⚡ **Interactive UI/UX**
+## 💡 **Quick Stats**
 
-Visit my portfolio to see live projects and case studies  
-**[portfoliowebdeployment.vercel.app](https://portfoliowebdeployment.vercel.app/)**
+![](https://img.shields.io/badge/Full--Stack_Projects-6+-6366F1?style=for-the-badge)
+![](https://img.shields.io/badge/AI--Assisted_Apps-3+-FF6F00?style=for-the-badge)
+![](https://img.shields.io/badge/Tech_Stack-15+-00C7B7?style=for-the-badge)
+![](https://img.shields.io/badge/Live_Deployments-4+-success?style=for-the-badge)
 
 </div>
 
@@ -193,19 +241,11 @@ Visit my portfolio to see live projects and case studies
 
 <div align="center">
 
-## 📈 **Contribution Activity**
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adeesha-Sandaruwan&theme=radical)
-
-</div>
-
-<br>
-
-<div align="center">
-
 ---
 
-**💙 Thanks for visiting!** • **Built with passion by Adeesha Sandaruwan**
+**💙 Thanks for visiting!** • **Let's build something amazing together**
+
+[![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio_✅-6366F1?style=for-the-badge)](https://portfoliowebdeployment.vercel.app/)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
