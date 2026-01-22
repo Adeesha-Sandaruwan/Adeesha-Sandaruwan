@@ -123,19 +123,9 @@ Explore additional projects and contributions
 
 <div align="center">
 
-## 🐍 Contribution Graph
+## 🏆 GitHub Trophies
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-## 🏅 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
