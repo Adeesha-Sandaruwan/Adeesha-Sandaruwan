@@ -116,6 +116,7 @@ const adeesha = {
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://skillsyncfrontend.vercel.app/)
 ![AI](https://img.shields.io/badge/AI-Assisted-FF6F00?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-blue?style=flat-square)
 
 `Spring Boot` `Java` `PostgreSQL` `Supabase` `React`
 
@@ -128,6 +129,7 @@ const adeesha = {
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=netlify)](https://cinnaproducts.netlify.app/)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-blue?style=flat-square)
 
 `MongoDB` `Express` `React` `Node.js` `Tailwind`
 
@@ -143,6 +145,7 @@ const adeesha = {
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://portfoliowebdeployment.vercel.app/)
 ![AI](https://img.shields.io/badge/AI-Assisted-FF6F00?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-blue?style=flat-square)
 
 `TypeScript` `Next.js` `Tailwind CSS` `Vercel`
 
@@ -155,6 +158,7 @@ const adeesha = {
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=railway)](https://terrific-integrity-production.up.railway.app/)
 ![AI](https://img.shields.io/badge/AI-Assisted-FF6F00?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-blue?style=flat-square)
 
 `MERN Stack` `MongoDB` `Express` `React` `Node.js`
 
@@ -181,6 +185,7 @@ const adeesha = {
 **Android app for tracking daily habits and routines**
 
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-blue?style=flat-square)
 
 `Kotlin` `Android SDK` `SQLite` `Material Design`
 
