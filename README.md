@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Adeesha%20Sandaruwan&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=gradient)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:141E61,50:243A73,100:4A628A&height=250&section=header&text=Adeesha%20Sandaruwan&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=E8E8E8&desc=Full%20Stack%20Developer&descAlignY=55&descSize=22)
 
 </div>
 
