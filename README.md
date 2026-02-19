@@ -41,6 +41,7 @@ const adeesha = {
     expertise: ["MERN", "Spring Boot", "Next.js", "AI-Assisted Development"],
     currentFocus: ["Microservices", "AI-Assisted Development", "Cloud Deployment"],
     databases: ["MongoDB", "PostgreSQL", "Supabase"],
+    1K+ Contributions on GitHub !!,
     funFact: "I build AI-powered apps that solve real problems ⚡"
 };
 ```
